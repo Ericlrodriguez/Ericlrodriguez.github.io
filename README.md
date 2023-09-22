@@ -3,7 +3,7 @@ This provides code for my Hello World for the Web project and is based on
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/). 
 
 ## Author
-Eric Rodriguez email:ericlrodriguez@lewisu.edu
+Eric Rodriguez email: ericlrodriguez@lewisu.edu
 
 ## Credits
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.
