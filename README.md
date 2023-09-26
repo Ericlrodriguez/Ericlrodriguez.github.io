@@ -6,8 +6,8 @@ This provides code for my Getting to know eachother for the Web project and is b
 Eric Rodriguez email: ericlrodriguez@lewisu.edu
 
 ## Credits
-[W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.
-Eric Pogue email: [epogue@lewisu.edu](mailto:epogue@lewisu.edu) for the original github repository
+<p>[W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.</p>
+<p>Eric Pogue email: [epogue@lewisu.edu](mailto:epogue@lewisu.edu) for the original github repository</p>
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
