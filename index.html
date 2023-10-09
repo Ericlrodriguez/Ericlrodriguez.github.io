@@ -15,7 +15,12 @@
     </style>
 </head>
 <body>
-    <h1>Eric Rodriguez</h1>
+    <h1 id="h1">Eric Rodriguez</h1>
+    <button style="position: relative; left: 50%; transform: translate(-50%);" type="button" onclick="myFunction()">Change Me</button>
+    <script>
+        function myFunction() {
+            document.getElementById("h1").style.color = "green";}
+    </script>
     <h2>Contact info:</h2>
     <p style="text-align: center;"><a href="mailto:ericlrodriguez@lewisu.edu">Ericlrodriguez@lewisu.edu</a></p>
     <p style="text-align: center;">Discord: Girthquake_1</p>
